@@ -19,6 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10</b> (21H2)
 
 <h2>Installation Steps</h2>
+Enabling IIS
 
 - Microsoft Azure (Virtual Machines)
 - Remote Desktop
