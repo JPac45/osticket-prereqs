@@ -33,11 +33,10 @@ Enabling <b>IIS</b> on Windows 10 VM
 <br />
 <b>PHP Manager for IIS</b> install
 
-- Go to Control Panel > Programs > Turn Windows Features On or OFF
-- Click and Expand Internet Information Services (IIS) > Click and Expand World Wide Web Services > Click and Expand Application Development Features > Check CGI 
-- Click and Expand Common HTTP Features > Check all boxes > Click OK
+- Go to the Installation Files and download and Install PHP Manager for ISS
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FR3qXXX.png"/>
 </p>
 <p>
 PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. 
