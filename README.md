@@ -19,18 +19,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10</b> (21H2)
 
 <h2>Installation Steps</h2>
-Enabling IIS
+Enabling IIS on Windows 10 VM
 
-- Microsoft Azure (Virtual Machines)
-- Remote Desktop
-- Internet Information Services (IIS)
-- MySQL
+- Go to Control Panel > Programs > Turn Windows Features On or OFF
+- Click and Expand Internet Information Services (IIS) > Click and Expand World Wide Web Services > Click and Expand Application Development Features > Check CGI 
+- Click and Expand Common HTTP Features > Check all boxes > Click OK
   
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9aLsrDd.gif"/>
 </p>
 <p>
-PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. 
 </p>
 <br />
 
