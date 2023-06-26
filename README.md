@@ -31,7 +31,7 @@ Enabling IIS on Windows 10 VM
 <p>
 </p>
 <br />
-Enabling IIS on Windows 10 VM
+PHP Manager for IIS install
 
 - Go to Control Panel > Programs > Turn Windows Features On or OFF
 - Click and Expand Internet Information Services (IIS) > Click and Expand World Wide Web Services > Click and Expand Application Development Features > Check CGI 
