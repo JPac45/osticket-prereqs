@@ -39,10 +39,15 @@ Enabling <b>IIS</b> on Windows 10 VM
 <img src="https://i.imgur.com/FR3qXXX.png"/>
 </p>
 <p>
-PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. PLACE MY OWN TEXT HERE. 
 </p>
 <br />
+<b>PHP Manager for IIS</b> install
 
+- Go to the Installation Files and download and Install PHP Manager for ISS
+
+<p>
+<img src="https://i.imgur.com/FR3qXXX.png"/>
+</p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
