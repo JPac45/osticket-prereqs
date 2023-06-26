@@ -19,7 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10</b> (21H2)
 
 <h2>Installation Steps</h2>
-Enabling IIS on Windows 10 VM
+Enabling <b>IIS</b> on Windows 10 VM
 
 - Go to Control Panel > Programs > Turn Windows Features On or OFF
 - Click and Expand Internet Information Services (IIS) > Click and Expand World Wide Web Services > Click and Expand Application Development Features > Check CGI 
