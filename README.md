@@ -51,6 +51,16 @@ Enabling <b>IIS</b> on Windows 10 VM
 <p>
 </p>
 <br />
+<b>Create the Directory C:\PHP </b>
+
+- Open File Explorer > This PC > Windows (C:) Drive > Right-click to add New Folder> label it "PHP"
+
+<p>
+<img src="https://i.imgur.com/FBuudVR.png"/>
+</p>
+<p>
+</p>
+<br />
 <h2>Configuration Steps</h2>
 
 <p>
