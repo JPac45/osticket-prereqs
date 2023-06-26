@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.  This tutorial assumes a Windows 10 VM has already been created.  <a href="https://github.com/JPac45/Creating-VMs-within-Azure">CLICK HERE</a> for the VM Creation Tutorial.   <br />
+This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.  This tutorial assumes a Windows 10 VM has already been created.  <a href="https://github.com/JPac45/Creating-VMs-within-Azure">CLICK HERE</a> for the VM Creation Tutorial.  We will also need to install on the VM a few files. To get started click here for <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">INSTALLATION FILES.</a><br />
 
 
 
