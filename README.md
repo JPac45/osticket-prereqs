@@ -31,7 +31,11 @@ Enabling IIS on Windows 10 VM
 <p>
 </p>
 <br />
+Enabling IIS on Windows 10 VM
 
+- Go to Control Panel > Programs > Turn Windows Features On or OFF
+- Click and Expand Internet Information Services (IIS) > Click and Expand World Wide Web Services > Click and Expand Application Development Features > Check CGI 
+- Click and Expand Common HTTP Features > Check all boxes > Click OK
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
