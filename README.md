@@ -67,7 +67,7 @@ Enabling <b>IIS</b> on Windows 10 VM
 - Double-click on PHP 7.3.8 > Right-click to Extract All > Click browse > This PC > Windows (C:) > Click PHP > Extract
 
 <p>
-<img src="https://i.imgur.com/FBuudVR.png"/>
+<img src="https://i.imgur.com/XW6eYTU.gif"/>
 </p>
 <p>
 </p>
