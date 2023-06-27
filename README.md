@@ -102,6 +102,29 @@ Enabling <b>IIS</b> on Windows 10 VM
 <p>
 </p>
 <br />
+<b>Install osTicket v1.15.8</b>
+
+- Download osTicket from the installation files
+- Extract and copy "upload" folder to C:\inetpub\wwwroot
+- Within C:\inetpub\wwwroot, Rename "upload" to "osTicket"
+
+<p>
+<img src="https://i.imgur.com/Nwvd9Zf.gif"/>
+</p>
+<p>
+</p>
+<br />
+
+
+- Logon back onto Client-1 as mydomain.com\jane_admin via Remote Desktop Connection.
+- Go to Start > System. Click Remote Desktop.
+- Click "Select users that can remotely access this PC".
+- Click ADD. Type in "Domain Users". Click Check Names. Click OK.
+- Click Ok again. Now all domain users are allowed to login into Client-1.
+<p>
+<img src="https://i.imgur.com/dU8NnNY.gif"
+</p>
+<br />
 <h2>Configuration Steps</h2>
 
 <p>
