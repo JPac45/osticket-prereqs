@@ -61,6 +61,17 @@ Enabling <b>IIS</b> on Windows 10 VM
 <p>
 </p>
 <br />
+<b>Download and Install PHP 7.3.8 zip file </b>
+
+- Unzip PHP 7.3.8 (PHP 7.3.8-nt-Win32-VC15-x86.zip) into C:\PHP from the installation files.
+- Double-click on PHP 7.3.8 > Right-click to Extract All > Click browse > This PC > Windows (C:) > Click PHP > Extract
+
+<p>
+<img src="https://i.imgur.com/FBuudVR.png"/>
+</p>
+<p>
+</p>
+<br />
 <h2>Configuration Steps</h2>
 
 <p>
