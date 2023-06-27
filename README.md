@@ -116,13 +116,10 @@ Enabling <b>IIS</b> on Windows 10 VM
 <br />
 
 
-- Logon back onto Client-1 as mydomain.com\jane_admin via Remote Desktop Connection.
-- Go to Start > System. Click Remote Desktop.
-- Click "Select users that can remotely access this PC".
-- Click ADD. Type in "Domain Users". Click Check Names. Click OK.
-- Click Ok again. Now all domain users are allowed to login into Client-1.
+-Restart IIS
+
 <p>
-<img src="https://i.imgur.com/dU8NnNY.gif"
+<img src="https://i.imgur.com/uIbwsEP.png"/>
 </p>
 <br />
 <h2>Configuration Steps</h2>
