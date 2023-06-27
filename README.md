@@ -77,6 +77,19 @@ Enabling <b>IIS</b> on Windows 10 VM
 <p> 
 <img src="https://i.imgur.com/RbZ2JGd.png"/>
 </p>
+<p>
+</p>
+<br />
+<b>Download and Install MySQL 5.5.62</b>
+
+- Double-click on MySQL > Click Next > Click Next > Select Typical > Click Install
+- After install, Check box for Launch the MySQL Instance Configuration Wizard > Click Finish > Click Next > Select Standard Configuration > Click Next > Select Install as Windows Service > Click Next > Create a password i.e. Username: ROOT  Password: Password1 > Click Next > Click Execute > Click Finish
+
+<p>
+<img src="https://i.imgur.com/c4RCYnk.gif"/>
+</p>
+<p>
+</p>
 <br />
 <h2>Configuration Steps</h2>
 
