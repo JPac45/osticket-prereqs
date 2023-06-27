@@ -117,9 +117,11 @@ Enabling <b>IIS</b> on Windows 10 VM
 
 
 -Restart IIS
+-Goto Default Web Site > osTicket > on the right, Click "Browse *80"
+-An osTicket webpage should open after clicking "Browse *80"
 
 <p>
-<img src="https://i.imgur.com/uIbwsEP.png"/>
+<img src="https://i.imgur.com/KKx3wpb.gif"/>
 </p>
 <br />
 <h2>Configuration Steps</h2>
