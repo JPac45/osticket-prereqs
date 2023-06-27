@@ -91,6 +91,17 @@ Enabling <b>IIS</b> on Windows 10 VM
 <p>
 </p>
 <br />
+<b>Register PHP from within ISS</b>
+
+- Open IIS as adminstrator > Double-click on PHP Manager > Click Register new PHP version > Click Browse > Select Php-cgi > Click OK
+- Restart IIS
+
+<p>
+<img src="https://i.imgur.com/ZmfRxwL.gif"/>
+</p>
+<p>
+</p>
+<br />
 <h2>Configuration Steps</h2>
 
 <p>
