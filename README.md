@@ -166,12 +166,12 @@ Enabling <b>IIS</b> on Windows 10 VM
 <br />
 <b>Install HeidiSQL</b>
 
-- Download osTicket from the installation files
-- Extract and copy "upload" folder to C:\inetpub\wwwroot
-- Within C:\inetpub\wwwroot, Rename "upload" to "osTicket"
+- Download HeidiSQL from the installation files
+- Install the program and open it
+- Click New > type "root" for User:, type "Password1" for Password: > Click Open > Righ-click Unnamed > Choose Create New > Choose Database > type "osTicket" for Name: > Click OK
 
 <p>
-<img src="https://i.imgur.com/Nwvd9Zf.gif"/>
+<img src="https://i.imgur.com/Ur71ABI.gif"/>
 </p>
 <p>
 </p>
