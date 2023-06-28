@@ -137,6 +137,19 @@ Enabling <b>IIS</b> on Windows 10 VM
 <p>
 </p>
 <br />
+<b>Rename ost-sampleconfig.php</b>
+
+- Rename C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+- To C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+<p>
+<img src="https://i.imgur.com/Nwvd9Zf.gif"/>
+</p>
+<p>
+</p>
+<p>
+</p>
+<br />
 <b>Install HeidiSQL</b>
 
 - Download osTicket from the installation files
