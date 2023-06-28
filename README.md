@@ -134,6 +134,20 @@ Enabling <b>IIS</b> on Windows 10 VM
 <p>
 <img src="https://i.imgur.com/YmEXwuA.png"/>
 </p>
+<p>
+</p>
+<br />
+<b>Install HeidiSQL</b>
+
+- Download osTicket from the installation files
+- Extract and copy "upload" folder to C:\inetpub\wwwroot
+- Within C:\inetpub\wwwroot, Rename "upload" to "osTicket"
+
+<p>
+<img src="https://i.imgur.com/Nwvd9Zf.gif"/>
+</p>
+<p>
+</p>
 <br />
 <h2>Configuration Steps</h2>ABOVE LAST
 
