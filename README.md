@@ -176,20 +176,16 @@ Enabling <b>IIS</b> on Windows 10 VM
 <p>
 </p>
 <br />
+<h2>Clean Up</h2>
+
+- Delete: C:\inetpub\wwwroot\osTicket\setup
+- Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+  - (C:) Drive > wwwroot > osTicket > Include > scroll down to ost-config.php > Right click on Properties > Click Security > Advanced > Click on Everyone > EDIT to only READ and EXECUTE > Click Ok > APPLY 
+
+<p>
+</p>
+<p>
 <h2>Configuration Steps</h2>ABOVE LAST
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<h2>Configuration Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
