@@ -123,8 +123,19 @@ Enabling <b>IIS</b> on Windows 10 VM
 <p>
 <img src="https://i.imgur.com/KKx3wpb.gif"/>
 </p>
+<p>
+</p>
 <br />
-<h2>Configuration Steps</h2>
+
+
+- NOTE: On the webpage, some extensions are disabled with a red X. You must enable these. To enable php extensions go back to ISS > Default Web Site > osTicket > Double-click on php manager > Click on php extensions > Enable the disabled extensions > Restart the server.
+
+
+<p>
+<img src="https://i.imgur.com/YmEXwuA.png"/>
+</p>
+<br />
+<h2>Configuration Steps</h2>ABOVE LAST
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
