@@ -151,6 +151,19 @@ Enabling <b>IIS</b> on Windows 10 VM
 <p>
 </p>
 <br />
+<b>Continue Setting up osticket in the browser</b>
+
+- From the osTicket Installer webpage, Click Continue > Fill out all fields under System Settings and Admin User (make sure to write down this information) 
+- Under Database Settings, type "osTicket" in MySQL Database field, type "root" in MySQL Username, type "Password1" in MySQL Password, Click Install Now
+
+<p>
+<img src="https://i.imgur.com/ruHNgES.gif"/>
+</p>
+<p>
+</p>
+<p>
+</p>
+<br />
 <b>Install HeidiSQL</b>
 
 - Download osTicket from the installation files
