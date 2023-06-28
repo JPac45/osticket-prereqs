@@ -137,13 +137,14 @@ Enabling <b>IIS</b> on Windows 10 VM
 <p>
 </p>
 <br />
-<b>Rename ost-sampleconfig.php</b>
+<b>Rename and Assign Permissions: ost-config.php</b>
 
 - Rename C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 - To C:\inetpub\wwwroot\osTicket\include\ost-config.php
+- Right-click on ost-config.php > Properties > Security > Advanced > OK > Disable inheritance > Remove all inherited permissions from this object > Add > Select a principal > type "everyone" > Check Names > OK > Check Full control > OK > Apply > OK > OK
 
 <p>
-<img src="https://i.imgur.com/Nwvd9Zf.gif"/>
+<img src="https://i.imgur.com/RZHroRJ.gif"/>
 </p>
 <p>
 </p>
